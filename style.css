@@ -1,0 +1,14 @@
+h1{
+background-color: rgb(5, 107, 59);
+color: wheat;
+text-align: center;
+}
+
+ul {
+    text-align: left;
+}
+
+a {
+    background-color: rgb(5, 107, 59);
+    color: wheat;
+}
