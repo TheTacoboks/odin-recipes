@@ -1,14 +1,22 @@
 h1{
-background-color: rgb(5, 107, 59);
+background-color: rgb(101, 158, 9);
 color: wheat;
 text-align: center;
 }
 
 ul {
     text-align: left;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 a {
-    background-color: rgb(5, 107, 59);
+    background-color: rgb(101, 158, 9);
     color: wheat;
 }
